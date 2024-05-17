@@ -13,6 +13,7 @@ The scripts collect data by words, ensuring the data is correct for different ve
    - MegaRAID -> storcli
    - Adaptec -> arcconf
    - Intel -> IntelVROCli
+   
    Check the version on the vendor's site.
 3. Git clone the repository.
 4. Change the path to the CLI in the file.
