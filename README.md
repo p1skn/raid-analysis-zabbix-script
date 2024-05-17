@@ -7,7 +7,7 @@ Returns 1 if there is an error or 0 if there are no errors.
 
 The scripts collect data by words, ensuring the data is correct for different versions of the CLI.
 
-# For Download 
+# Installation
 1. Download the latest Python version.
 2. Download the vendor CLI:
    - MegaRAID -> storcli
